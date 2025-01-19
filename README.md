@@ -19,7 +19,7 @@ This project is a port-scanning honeypot designed to detect and block malicious 
 ### 1. Terminal Output
 The script detects and blocks malicious IPs.
 
-![Terminal Output](screenshots/Server - Stats.png)
+![Terminal Output](screenshots/Terminal.png)
 
 ### 2. Attacker Output
 NMAP Scan from attacker side:
