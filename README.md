@@ -16,12 +16,17 @@ This project is a port-scanning honeypot designed to detect and block malicious 
 
 ## Screenshots
 
-### 1. Terminal Output
+### 1. Setup
+Hardware setup with Rasberry Pi B.
+
+![Setup](screenshots/Setup.png)
+
+### 2. Terminal Output
 The script detects and blocks malicious IPs.
 
 ![Terminal Output](screenshots/Terminal.png)
 
-### 2. Attacker Output
+### 3. Attacker Output
 NMAP Scan from attacker side:
 
 ![Attacker Output](screenshots/Attacker.png)
