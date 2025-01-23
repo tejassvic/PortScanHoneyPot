@@ -1,5 +1,5 @@
 from datetime import datetime
-from scapy.all import IP, TCP
+from scapy.all import Raw, IP, TCP, send
 from constants import BLOCK_DURATION, MAX_COUNT, TAUNT
 from ip_handler import IPHandler
 from logger import HoneypotLogger
